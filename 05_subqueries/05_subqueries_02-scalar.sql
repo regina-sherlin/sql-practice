@@ -1,3 +1,4 @@
+
 -- Find customers from the same city as a customer who has placed an order above 500.
 
 SELECT name, city 
