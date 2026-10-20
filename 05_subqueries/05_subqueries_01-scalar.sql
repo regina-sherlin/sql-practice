@@ -1,3 +1,4 @@
+
 -- For each department, show the department id and its average salary, 
 -- then return only the departments whose average is above 70000.
 
