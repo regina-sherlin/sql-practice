@@ -1,3 +1,4 @@
+
 -- Find departments that have no employees. 
 
 SELECT name
