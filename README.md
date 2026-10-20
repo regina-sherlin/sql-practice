@@ -1,15 +1,12 @@
 # 🗃️ Knock down SQL, let's go!!
 
 My daily SQL practice, organised by concept. 
-Everyday I learn a concept, load questions from Claude by concept - 
-practice it on https://sqliteonline.com/ and save the local sql file and upload it to github to keep a log and track progress.
-
-## 📌 How I Practice
-
-1. Pick one concept for the day (joins, window functions, CTEs, etc.)
-2. Load the sample dataset below
-3. Write queries from scratch, without looking at solutions
-4. Save the best version using the naming pattern below, with a comment header
+1. Everyday I learn a concept
+2. Load questions from Claude by concept
+3. Practice it on https://sqliteonline.com/
+4. Save the local sql file
+5. Upload it to github to keep a log and track progress
+6. Bonus: Solve 1 or 2 on hackerrank/leetcode/genepy depending on my mood. 
 
 ### Topics
 
@@ -28,7 +25,7 @@ practice it on https://sqliteonline.com/ and save the local sql file and upload 
 ## 🧾 File Header Template
 
 Every file starts with a short comment header:
-
+Dataset can be found in it's parent's README.md file.
 ```sql
 -- Problem : Employees earning more than the department average
 ```
