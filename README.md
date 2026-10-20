@@ -1,6 +1,8 @@
 # 🗃️ Knock down SQL, let's go!!
 
-My daily SQL practice, organised by concept. Every query file is written against the sample dataset below.
+My daily SQL practice, organised by concept. 
+Everyday I learn a concept, load questions from Claude by concept - 
+practice it on https://sqliteonline.com/ and save the local sql file and upload it to github to keep a log and track progress.
 
 ## 📌 How I Practice
 
