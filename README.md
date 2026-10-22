@@ -1,4 +1,4 @@
-# 🗃️ Knock down SQL, let's go!!
+# 🗃️ Knock down SQL, let's go!!!
 
 My daily SQL practice, organised by concept. 
 1. Everyday I learn a concept
