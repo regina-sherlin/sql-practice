@@ -1,4 +1,4 @@
-# SQL Practice: Date Functions, Date Ranges, Self Joins & Subqueries
+# SQL Practice: Date Functions, Date Ranges, Self Joins & Subqueries.
 
 ## Level 1: Extracting Parts of a Date
 
